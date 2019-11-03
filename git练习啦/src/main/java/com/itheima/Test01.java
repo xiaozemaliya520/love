@@ -6,5 +6,6 @@ public class Test01 {
         user.setName("赵红艳");
         user.setAge(23);
         System.out.println(user);
+        System.out.println("我爱赵红艳");
     }
 }
